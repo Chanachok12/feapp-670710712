@@ -22,6 +22,14 @@ function Navbar() {
 }
 
 export default Navbar;
+
+
+
+
+
+
+
+
 /*function Navbar() {
   return (
     <nav className="flex items-center justify-between bg-slate-900 px-6 py-4">
